@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "title": "Base de conocimiento local del chatbot educativo Nukak",
+    "sourceDocument": "Guía de investigación pueblo Nukak (PDF adjunto)",
+    "sourcePages": 16,
+    "updatedAt": "2026-11-05",
+    "verificationPolicy": "La guía es material escolar del proyecto, no una verificación independiente. Afirmaciones de la guía se atribuyen a ella y se contrastan con fuentes oficiales cuando se dispone de ellas. Cifras, datos actuales y funciones institucionales requieren fuente directa y fecha."
+  },
+  "verifiedSources": [
+    {
+      "title": "Ministerio de Cultura: El proceso de formar y vivir como nükak baka",
+      "url": "https://patrimonio.mincultura.gov.co/legislacion/Paginas/El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx"
+    },
+    {
+      "title": "Ministerio de Cultura: Plan Especial de Salvaguardia de Urgencia Nükak",
+      "url": "https://patrimonio.mincultura.gov.co/Paginas/PES--El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx"
+    },
+    {
+      "title": "Corte Constitucional: Auto 254 de 2026, 4 de marzo de 2026",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A254-26.htm"
+    },
+    {
+      "title": "Corte Constitucional: Auto 326 de 2026, 18 de marzo de 2026",
+      "url": "https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A326-26.htm"
+    }
+  ],
+  "entries": [
+    {
+      "topic": "Identidad y ubicación",
+      "summary": "El Ministerio de Cultura describe a los Nükak como un pueblo de tradición nómada, oficialmente contactado en Colombia en 1988, cuyo territorio tradicional se ubica entre los ríos Guaviare e Inírida, en el Guaviare. La guía escolar amplía temas de identidad, lengua y organización social; sus cifras de población y hablantes no se usan sin verificar su fecha y fuente original.",
+      "source": "Ministerio de Cultura; Guía de investigación del proyecto, pp. 2-3."
+    },
+    {
+      "topic": "Territorio y naturaleza",
+      "summary": "La guía presenta bosque, ríos y biodiversidad como parte importante de la vida, alimentación, conocimientos y movilidad Nukak. Se atribuye esta descripción a la guía y no se supone que todas las personas o familias vivan igual. El Ministerio de Cultura ubica el territorio tradicional entre los ríos Guaviare e Inírida.",
+      "source": "Ministerio de Cultura; Guía de investigación del proyecto, pp. 4-8."
+    },
+    {
+      "topic": "Cultura y transmisión de saberes",
+      "summary": "La guía trata la lengua, tradición oral, conocimientos sobre naturaleza y aprendizaje entre generaciones. El Ministerio de Cultura identifica el manejo del mundo y la naturaleza y la tradición oral como expresiones culturales abordadas por el PES-U. No se usan generalizaciones ni cifras de hablantes sin una fuente especializada y fechada.",
+      "source": "Ministerio de Cultura, página del PES-U; Guía de investigación del proyecto, pp. 2-5 y 11."
+    },
+    {
+      "topic": "Historia de contacto",
+      "summary": "La ficha del Ministerio de Cultura indica que el contacto oficial en Colombia ocurrió en 1988. La guía describe otros episodios históricos, pero detalles sobre causas, fechas, enfermedades o cambios poblacionales deben citar su fuente directa y no se presentan como datos confirmados solo por aparecer en la guía.",
+      "source": "Ministerio de Cultura; Guía de investigación del proyecto, p. 6."
+    },
+    {
+      "topic": "Desplazamiento y estado documentado",
+      "summary": "En el Auto 254 del 4 de marzo de 2026, la Corte Constitucional describió entre 21 y 23 asentamientos Nukak en situación de desplazamiento en San José del Guaviare y El Retorno, y estaba examinando opciones de reubicación mientras solicitaba una valoración de seguridad. Es información situada en la fecha de esa providencia: no demuestra que la reubicación se haya ordenado o realizado después. La guía explica posibles efectos del desplazamiento sobre la vida y la transmisión cultural.",
+      "source": "Corte Constitucional, Auto 254 de 2026; Guía de investigación del proyecto, pp. 7-8."
+    },
+    {
+      "topic": "Derechos y protección",
+      "summary": "El Auto 254 de 2026 describe afectaciones a derechos fundamentales individuales y colectivos. Para explicar normas, órdenes o garantías concretas se deben citar la providencia o la norma aplicable; la guía escolar sirve como orientación del proyecto, no como fuente jurídica suficiente.",
+      "source": "Corte Constitucional, Auto 254 de 2026; Guía de investigación del proyecto, pp. 9-10."
+    },
+    {
+      "topic": "PES-U",
+      "summary": "El Ministerio de Cultura documenta el Plan Especial de Salvaguardia de Urgencia de manifestaciones culturales Nukak y señala que el proceso comenzó en 2010 como investigación colaborativa con apoyo de la Fundación Erigaie. Este plan cultural no equivale a afirmar que las medidas territoriales, de atención o reparación estén actualmente cumplidas.",
+      "source": "Ministerio de Cultura, página del PES-U; Guía de investigación del proyecto, pp. 9 y 12."
+    },
+    {
+      "topic": "Instituciones y seguimiento",
+      "summary": "La guía enumera instituciones y autoridades como actores que el proyecto investiga, pero sus funciones vigentes no se infieren solo de esa lista. El Auto 326 de 2026 requirió a la UARIV información sobre acciones de atención y concertación, opciones de retorno o reubicación y el estado del plan de reparación colectiva. El Auto 254 de 2026 pidió a entidades de Defensa y seguridad un concepto de seguridad y comunicó la decisión a la Defensoría y la Procuraduría. Son actuaciones concretas de esas providencias, no una descripción completa de todas las competencias.",
+      "source": "Corte Constitucional, Autos 254 y 326 de 2026; Guía de investigación del proyecto, pp. 9-10."
+    },
+    {
+      "topic": "Propuesta educativa escolar",
+      "summary": "La guía propone una campaña escolar con afiches, exposiciones y una presentación o videos, para informar, promover respeto por las decisiones y autoridades Nukak, usar fuentes confiables y evitar discriminación. Es una propuesta; no se afirma que ya se haya realizado ni que resuelva el desplazamiento. La evaluación descrita en la guía solo correspondería después de ejecutar la campaña.",
+      "source": "Guía de investigación del proyecto, pp. 13-14."
+    }
+  ],
+  "answers": {
+    "greeting": "¡Hola! Puedes preguntarme sobre el proyecto del pueblo Nukak. ¿Qué te gustaría saber?",
+    "noName": "Está bien; puedes continuar sin dar tu nombre. ¿Qué te gustaría saber sobre el proyecto del pueblo Nukak?",
+    "general": "La guía estudia la protección del pueblo Nukak, su territorio y cultura, el desplazamiento y las responsabilidades institucionales. También propone una campaña educativa para el colegio. La campaña es una propuesta, no se presenta como realizada. La guía es material del proyecto y algunos datos deben contrastarse con fuentes verificadas.",
+    "identity": "El Ministerio de Cultura describe a los Nükak como un pueblo de tradición nómada, con territorio tradicional entre los ríos Guaviare e Inírida, en el departamento del Guaviare; su ficha indica que el contacto oficial en Colombia fue en 1988. Esto no significa que todas las personas tengan hoy la misma experiencia o forma de vida. Fuente: Ministerio de Cultura, https://patrimonio.mincultura.gov.co/legislacion/Paginas/El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx",
+    "territory": "La guía del proyecto explica que el bosque y los ríos se relacionan con la alimentación, el agua, algunos conocimientos y la movilidad Nukak. Presenta el desplazamiento y los cambios del entorno como asuntos que pueden afectar esa relación. Es una síntesis de la guía; evita generalizar sobre todas las familias. El Ministerio de Cultura ubica el territorio tradicional entre Guaviare e Inírida. Fuente: https://patrimonio.mincultura.gov.co/legislacion/Paginas/El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx",
+    "culture": "La guía destaca la lengua, la tradición oral, los conocimientos sobre la naturaleza y la transmisión de saberes entre generaciones. El Ministerio de Cultura también documenta estas expresiones en el Plan Especial de Salvaguardia de Urgencia. No conviene presentar una sola descripción como si todas las personas Nukak pensaran o vivieran igual. Fuente: Ministerio de Cultura, https://patrimonio.mincultura.gov.co/Paginas/PES--El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx",
+    "history": "La ficha del Ministerio de Cultura indica que el contacto oficial de los Nükak en Colombia ocurrió en 1988. La guía menciona otros episodios históricos, pero para confirmar detalles, fechas o cifras hay que revisar la fuente original y su fecha. Fuente: https://patrimonio.mincultura.gov.co/legislacion/Paginas/El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx",
+    "displacement": "En el Auto 254 del 4 de marzo de 2026, la Corte Constitucional describió entre 21 y 23 asentamientos Nukak en situación de desplazamiento en San José del Guaviare y El Retorno. En esa providencia la Corte estaba examinando opciones de reubicación y pidió una valoración de seguridad; eso no significa que la reubicación ya se haya realizado. La cifra y el estado corresponden a esa fecha. Fuente: https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A254-26.htm",
+    "rights": "La guía aborda derechos territoriales y colectivos. Además, el Auto 254 de 2026 de la Corte Constitucional describe afectaciones a derechos fundamentales individuales y colectivos del pueblo Nukak. Para afirmar el contenido o la vigencia de una medida concreta, consulta la providencia o norma correspondiente. Fuente: https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A254-26.htm",
+    "pesu": "El Ministerio de Cultura documenta un Plan Especial de Salvaguardia de Urgencia para manifestaciones culturales Nukak. Indica que el proceso empezó en 2010 como investigación colaborativa con apoyo de la Fundación Erigaie. Esto se refiere a salvaguardia cultural; por sí solo no demuestra que las medidas de protección territorial, atención o reparación estén cumplidas. Fuente: https://patrimonio.mincultura.gov.co/Paginas/PES--El-proceso-de-formar-y-vivir-como-n%C3%BCkak-baka-%28gente-verdadera%29.aspx",
+    "institutions": "La guía enumera instituciones y autoridades para investigar, pero sus funciones vigentes deben comprobarse en fuentes oficiales. En el Auto 326 de 2026, la Corte pidió a la UARIV informar sobre atención, concertación, opciones de retorno o reubicación y reparación colectiva. En el Auto 254 de 2026 pidió un concepto de seguridad a entidades del sector Defensa y comunicó la decisión a la Defensoría y la Procuraduría. Esas órdenes concretas no resumen todas las competencias institucionales. Fuentes: https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A326-26.htm y https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A254-26.htm",
+    "implementation": "Que exista un plan o una medida no demuestra que se haya cumplido. El Auto 326 de 2026 pidió información actualizada a la UARIV sobre atención, concertación y reparación colectiva; el Auto 254 de 2026 pidió una valoración de seguridad para estudiar opciones de reubicación. Conviene distinguir entre una propuesta, una orden, un informe solicitado y una acción cuya ejecución esté verificada. Fuentes: https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A326-26.htm y https://www.corteconstitucional.gov.co/relatoria/Autos/2026/A254-26.htm",
+    "campaign": "La guía propone una campaña educativa escolar con afiches, exposiciones y una presentación o videos. Plantea informar sobre la historia y los derechos del pueblo Nukak, respetar sus decisiones y autoridades, y evitar la discriminación. Es una propuesta del proyecto: no afirmes que ya se hizo ni que solucionó el desplazamiento. Fuente: Guía de investigación del proyecto, pp. 13-14.",
+    "unknown": "No encuentro en la base local una respuesta suficientemente respaldada para ese detalle. La guía del proyecto no basta para confirmarlo; conviene revisar una fuente oficial o especializada y comprobar su fecha."
+  }
+}

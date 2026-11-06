@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f8faf8" />
+    <meta name="description" content="Chat educativo escolar sobre el proyecto del pueblo Nukak." />
+    <title>Aula Nukak · Chat educativo</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Navegación del proyecto">
+        <a class="brand" href="/" aria-label="Aula Nukak">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 32 32" fill="none">
+              <path d="M16 27C8.7 23.2 6.3 17.2 8.7 9.3 16.8 9.8 22.2 13.7 24 20.2 22.1 23.8 19.4 26.1 16 27Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/>
+              <path d="M9 10c4 4.5 6.3 9.4 7 17m0-8c1.8-1.5 3.5-2.5 5.5-3.2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            </svg>
+          </span>
+          <span>Aula Nukak</span>
+        </a>
+
+        <button id="new-chat" class="new-chat" type="button">
+          <span aria-hidden="true">＋</span>
+          <span>Nueva conversación</span>
+        </button>
+
+        <div class="sidebar-caption">PROYECTO</div>
+        <div class="history-item" aria-current="page">
+          <span class="history-icon" aria-hidden="true">◌</span>
+          <span>Chat sobre el pueblo Nukak</span>
+        </div>
+
+        <div class="sidebar-bottom">
+          <span class="sidebar-bottom-mark" aria-hidden="true">N</span>
+          <span><strong>Proyecto escolar</strong><small>Aprender con respeto</small></span>
+        </div>
+      </aside>
+
+      <main class="main-panel">
+        <header class="topbar">
+          <div class="topbar-title">
+            <span class="mobile-brand">Aula Nukak</span>
+            <span class="desktop-title">Chat educativo</span>
+            <span class="topbar-divider" aria-hidden="true">/</span>
+            <span class="project-name">Pueblo Nukak</span>
+          </div>
+          <span class="online-status"><span></span> Modo local</span>
+        </header>
+
+        <section class="chat-stage" aria-label="Conversación educativa">
+          <div class="chat-column">
+            <section id="video-slot" class="video-card" aria-label="Video de bienvenida">
+              <div class="video-placeholder" role="status">
+                <span class="play-symbol" aria-hidden="true">▶</span>
+                <span class="video-copy"><strong>Video de bienvenida</strong><small>El archivo o enlace se agregará aquí</small></span>
+              </div>
+            </section>
+
+            <div id="conversation" class="conversation" aria-live="polite" aria-relevant="additions text"></div>
+
+            <div class="starter-prompts" aria-label="Preguntas sugeridas">
+              <button type="button" class="starter" data-question="¿Qué busca la propuesta educativa escolar?">¿Qué busca la propuesta escolar?</button>
+              <button type="button" class="starter" data-question="¿Por qué el proyecto habla de proteger el territorio?">¿Por qué importa el territorio?</button>
+            </div>
+
+            <form id="chat-form" class="composer">
+              <label class="sr-only" for="message-input">Escribe tu pregunta sobre el proyecto</label>
+              <textarea id="message-input" name="message" rows="1" maxlength="1200" placeholder="Escribe una pregunta sobre el proyecto…" required></textarea>
+              <button id="send-button" class="send-button" type="submit" aria-label="Enviar pregunta">
+                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <path d="M4 12 20 4l-5.2 16-3.1-6.8L4 12Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
+                  <path d="m11.7 13.2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+                </svg>
+              </button>
+            </form>
+            <p class="composer-note">Respuestas educativas sobre el proyecto del pueblo Nukak.</p>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
+
